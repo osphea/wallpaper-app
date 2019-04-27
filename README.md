@@ -1,2 +1,2 @@
 # wallpaper-app
-The wallpaper picker app for Dahlia OS
+wallpaper picker for dahlia
